@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+}
+.logo {
+   text-align: center;
+   margin: 40px 0;
+}
+.logo img {
+    width: 100px;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #00a9b0;
+}
+.book {
+  text-align: center;
+}
+.book p {
+   font-size: 24px;
+}
+.book input{
+    border-radius: 5px;
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 15px;
+    font-size: 20px;
+}
+.book input[type="submit"] {
+font-size: 16px;
+color: #FFF;
+background: #00a9b0;
+border: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th{
+    background: #00a9b0;
+    color: #FFF;
+    padding: 15px 0;
+}
